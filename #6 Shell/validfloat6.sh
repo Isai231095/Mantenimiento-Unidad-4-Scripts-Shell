@@ -1,5 +1,5 @@
 #!/bin/bash  
-. /home/haydo/Escritorio/CodigosMantenimiento/5_validint
+. validint5.sh
 
 validfloat()
 {
