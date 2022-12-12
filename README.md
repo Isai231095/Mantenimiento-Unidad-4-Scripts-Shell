@@ -1,2 +1,61 @@
 # Mantenimiento-Unidad-4-Scripts-Shell
+Libro: Wicked Cool Shell Scripts
+<br>
+Alumno: Antonio Isai Lopez Leal
+<br>
+Ingieneria en Tecnologias de la Informacion
+<br>
+Unidad 4: Proyecto. ¿Como hacer 50 Script en un Noche y no morir en el intento?
+<br>
 
+## **Lista de Scripts**
+### 1. [**Ejercicio 6**](https://github.com/Isai231095/Mantenimiento-Unidad-4-Scripts-Shell/blob/1c08fba10ea7a27534b0a95b00416ec6d042a50a/%236%20Shell/Ejercicio6.md)
+### 2. [**Ejercicio 8**]()
+### 3. [**Ejercicio 11**]()
+### 4. [**Ejercicio 13**]()
+### 5. [**Ejercicio 16**]()
+### 6. [**Ejercicio 19**]()
+### 7. [**Ejercicio 22**]()
+### 8. [**Ejercicio 28**]()
+### 9. [**Ejercicio 29**]()
+### 10. [**Ejercicio 30**]()
+### 11. [**Ejercicio 31**]()
+### 12. [**Ejercicio 34**]()
+### 13. [**Ejercicio 38**]()
+### 14. [**Ejercicio 39**]()
+### 15. [**Ejercicio 41**]()
+### 16. [**Ejercicio 42**]()
+### 17. [**Ejercicio 43**]()
+### 18. [**Ejercicio 44**]()
+### 19. [**Ejercicio 46**]()
+### 20. [**Ejercicio 48**]()
+### 21. [**Ejercicio 49**]()
+### 22. [**Ejercicio 51**]()
+### 23. [**Ejercicio 52**]()
+### 24. [**Ejercicio 53**]()
+### 25. [**Ejercicio 54**]()
+### 26. [**Ejercicio 56**]()
+### 27. [**Ejercicio 58**]()
+### 28. [**Ejercicio 59**]()
+### 29. [**Ejercicio 60**]()
+### 30. [**Ejercicio 61**]()
+### 31. [**Ejercicio 63**]()
+### 32. [**Ejercicio 64**]()
+### 33. [**Ejercicio 65**]()
+### 34. [**Ejercicio 66**]()
+### 35. [**Ejercicio 68**]()
+### 36. [**Ejercicio 69**]()
+### 37. [**Ejercicio 81**]()
+### 38. [**Ejercicio 82**]()
+### 39. [**Ejercicio 83**]()
+### 40. [**Ejercicio 85**]()
+### 41. [**Ejercicio 86**]()
+### 42. [**Ejercicio 89**]()
+### 43. [**Ejercicio 90**]()
+### 44. [**Ejercicio 91**]()
+### 45. [**Ejercicio 93**]()
+### 46. [**Ejercicio 94**]()
+### 47. [**Ejercicio 95**]()
+### 48. [**Ejercicio 96**]()
+### 49. [**Ejercicio 98**]()
+### 50. [**Ejercicio 99**]()
