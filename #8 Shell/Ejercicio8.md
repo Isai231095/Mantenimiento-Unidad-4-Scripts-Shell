@@ -9,10 +9,10 @@
 
 ## <span style="color:green">Script #6: Echon </span> ##
 
-<pre><code>
+```shell
 #!/bin/bash
 echo "$*" | awk '{ printf "%s", $0 }'
-</code></pre>
+```
 
 > ### Prueba de Escritorio ###
 ![8](8.png)

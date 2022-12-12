@@ -1,5 +1,15 @@
-#!/bin/bash
+# Ejercicio #16: Newrm
 
+## ¿Como _funciona_?
+
+>Este Script nos permite poder enlistar y recuperar nuestros documentos de la carpeta "Urna". Aqui vendria a ser algo como el portapapeles.
+
+### _Observacion_ ###
+>Este Script necesita tener una carpeta destinada para la basura, sino no funciona. Asi que se cambio la carpeta a la nuestra.
+
+## <span style="color:green">Script #13: Hilow </span> ##
+
+```shell
 #!/bin/bash
 
 archivedir="$HOME/.local/share/Trash/files"
@@ -96,4 +106,7 @@ else
     echo "Done."
 fi
 
-exit 0     
+exit 0
+```
+
+> ### Prueba de Escritorio ###

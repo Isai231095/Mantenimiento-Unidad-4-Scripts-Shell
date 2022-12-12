@@ -9,7 +9,7 @@
 
 ## <span style="color:green">Script #5: Valid Int</span> ##
 
-<pre><code>
+```shell
 #!/bin/bash
 
 validint()
@@ -46,14 +46,15 @@ validint()
     fi
   fi
   return 0
-} </code></pre>
+}
+```
 
 ### Observaciones ###
 > El codigo funciono de forma directa asi que no ocupo correciones del autor.
 
 ## <span style="color:green">Script #6: Valid Float</span> ##
 
-<pre><code>
+```shell
 #!/bin/bash
 
 . validInt5.sh
@@ -102,7 +103,7 @@ if validfloat $1 ; then
   fi
 
 exit 0
-</code></pre>
+```
 
 > ### Prueba de Escritorio ###
 
